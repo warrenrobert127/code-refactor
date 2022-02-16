@@ -42,7 +42,7 @@
     margin-left: 25px;
   }
   
-  /* end header and nav styling */
+  /*header and nav styling */
   
   a {
     color: #ffffff;
@@ -52,7 +52,7 @@
   p {
     font-size: 16px;
   }
-  /* hero styling */
+  
   
   .hero {
     height: 800px;
@@ -78,7 +78,7 @@
     display: inline-block;
     margin-left: 20px;
   }
-  /* begin offererd products section styling */
+  /*  offererd products section styling */
   
   .product {
     margin-bottom: 20px;
@@ -97,9 +97,9 @@
     margin-bottom: 20px;
     font-size: 36px;
   }
-  /* end offererd products section styling */
+  /* end offererd products */
   
-  /* begin benefits section styling */
+  /*benefits section styling */
   
   .benefits {
     margin-right: 20px;
@@ -128,7 +128,7 @@
     max-width: 150px;
   }
   
-  /* end benefits section styling */
+  /* end benefits */
   
   /* footer styling */
   
